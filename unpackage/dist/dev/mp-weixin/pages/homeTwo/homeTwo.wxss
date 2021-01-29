@@ -1,0 +1,333 @@
+.card.data-v-3f54963c {
+  width: 750rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: rgba(0, 0, 0, 0.61);
+  overflow: hidden;
+}
+.card .avator.data-v-3f54963c {
+  margin-top: 31rpx;
+  margin-left: 43rpx;
+  width: 664rpx;
+  height: 374rpx;
+  position: relative;
+}
+.card .avator .master.data-v-3f54963c {
+  width: 100%;
+  height: 100%;
+}
+.card .avator .collect.data-v-3f54963c {
+  position: absolute;
+  width: 90rpx;
+  height: 90rpx;
+  right: -10rpx;
+  bottom: -45rpx;
+}
+.card .avator .type.data-v-3f54963c {
+  position: absolute;
+  top: 22rpx;
+  left: 42rpx;
+  background: #000000;
+  opacity: 0.5;
+  -webkit-border-radius: 12rpx;
+          border-radius: 12rpx;
+  padding: 16rpx 20rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+.card .conten.data-v-3f54963c {
+  width: 706rpx;
+  margin-left: 22rpx;
+  background: #FFFFFF;
+  padding: 72rpx 93rpx 22rpx 72rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.card .conten .headline.data-v-3f54963c {
+  font-size: 48rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.card .conten .here.data-v-3f54963c {
+  margin-top: 35rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.card .conten .here .imgH.data-v-3f54963c {
+  width: 70rpx;
+  height: 70rpx;
+}
+.card .conten .here .by.data-v-3f54963c {
+  margin-left: 11rpx;
+  font-size: 30rpx;
+  font-family: American Typewriter;
+  font-weight: 600;
+  color: #000000;
+}
+.card .conten .here .qian.data-v-3f54963c {
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #FC4E27;
+}
+.card .conten .here .lq.data-v-3f54963c {
+  width: 90rpx;
+  height: 48rpx;
+  margin-left: 20rpx;
+}
+.card .conten .adress.data-v-3f54963c,
+.card .conten .date.data-v-3f54963c {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.card .conten .adress .img1.data-v-3f54963c,
+.card .conten .date .img1.data-v-3f54963c {
+  width: 26rpx;
+  height: 32rpx;
+  margin-left: 3rpx;
+}
+.card .conten .adress .img2.data-v-3f54963c,
+.card .conten .date .img2.data-v-3f54963c {
+  width: 32rpx;
+  height: 26rpx;
+}
+.card .conten .adress view.data-v-3f54963c,
+.card .conten .date view.data-v-3f54963c {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+  margin-left: 23rpx;
+}
+.card .conten .adress.data-v-3f54963c {
+  margin-top: 46rpx;
+}
+.card .conten .date.data-v-3f54963c {
+  margin-top: 32rpx;
+}
+.card .conten .want.data-v-3f54963c {
+  margin-top: 89rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.card .conten .want .go.data-v-3f54963c {
+  width: 65%;
+}
+.card .conten .want .go view.data-v-3f54963c {
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.card .conten .want .go .avatorGo.data-v-3f54963c {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 38rpx;
+  position: relative;
+}
+.card .conten .want .go .avatorGo view.data-v-3f54963c {
+  background: #FFFFFF;
+  width: 70rpx;
+  height: 70rpx;
+  border: 4rpx solid #FFFFFF;
+  -webkit-border-radius: 35rpx;
+          border-radius: 35rpx;
+}
+.card .conten .want .go .avatorGo view.data-v-3f54963c:nth-child(1) {
+  border: none;
+}
+.card .conten .want .go .avatorGo view.data-v-3f54963c:nth-child(2n) {
+  position: absolute;
+  left: 50rpx;
+}
+.card .conten .want .go .avatorGo view.data-v-3f54963c:nth-child(3n) {
+  position: absolute;
+  left: 100rpx;
+}
+.card .conten .want .go .avatorGo view.data-v-3f54963c:nth-child(4n) {
+  position: absolute;
+  left: 150rpx;
+}
+.card .conten .want .go .avatorGo view image.data-v-3f54963c {
+  width: 66rpx;
+  height: 66rpx;
+  -webkit-border-radius: 33rpx;
+          border-radius: 33rpx;
+}
+.card .conten .want .xian.data-v-3f54963c {
+  width: 3rpx;
+  height: 127rpx;
+  background: #E6E6E6;
+}
+.card .html.data-v-3f54963c {
+  position: relative;
+}
+.card .position.data-v-3f54963c {
+  position: absolute;
+  background: #FFFFFF;
+  top: 49px;
+}
+.card .images.data-v-3f54963c {
+  width: 706rpx;
+  margin-left: 24rpx;
+}
+.card .images image.data-v-3f54963c {
+  width: 100%;
+  height: 454rpx;
+}
+.card .activity.data-v-3f54963c {
+  margin-top: 48rpx;
+}
+.card .activity .tab.data-v-3f54963c {
+  margin-left: 44rpx;
+}
+.card .activity .tab .item.data-v-3f54963c {
+  margin-right: 60rpx;
+}
+.card .activity .tab .item .name.data-v-3f54963c {
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.6);
+}
+.card .activity .tab .item .borderB.data-v-3f54963c {
+  margin: 12rpx 0 0 18rpx;
+  width: 32rpx;
+  height: 4rpx;
+  background: #FDD10A;
+}
+.card .back.data-v-3f54963c {
+  margin-top: 50rpx;
+}
+.card .faxian.data-v-3f54963c {
+  width: 664rpx;
+  height: 118rpx;
+  z-index: 999;
+  line-height: 1;
+}
+.card uni-popup .content.data-v-3f54963c {
+  background: #ffffff;
+  padding-top: 34rpx;
+  width: 480rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.card uni-popup .content image.data-v-3f54963c {
+  width: 120rpx;
+  height: 120rpx;
+  margin-left: 180rpx;
+}
+.card uni-popup .content .content_.data-v-3f54963c {
+  margin: 45rpx 0 53rpx 110rpx;
+  text-align: center;
+  width: 285rpx;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #666666;
+}
+.card uni-popup .content .click.data-v-3f54963c {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-top: 1rpx solid #dedede;
+}
+.card uni-popup .content .click > view.data-v-3f54963c {
+  font-size: 30rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  padding: 25rpx 0;
+}
+.card uni-popup .content .click .cancel.data-v-3f54963c {
+  border-right: 1rpx solid #dedede;
+}
+.card uni-popup .content .click .comfirm.data-v-3f54963c {
+  color: #5c92e1;
+}
+.card uni-popup .loginCon.data-v-3f54963c {
+  width: 750rpx;
+  background: #333333;
+  overflow: hidden;
+}
+.card uni-popup .loginCon view.data-v-3f54963c {
+  line-height: 1;
+}
+.card uni-popup .loginCon .con.data-v-3f54963c {
+  margin-top: 350rpx;
+  margin-left: 85rpx;
+  width: 580rpx;
+  background: #FFFFFF;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  overflow: hidden;
+}
+.card uni-popup .loginCon .con .top.data-v-3f54963c {
+  text-align: center;
+  margin-top: 60rpx;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.card uni-popup .loginCon .con .middle.data-v-3f54963c {
+  margin-top: 38rpx;
+  text-align: center;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #999999;
+}
+.card uni-popup .loginCon .con image.data-v-3f54963c {
+  width: 155rpx;
+  height: 155rpx;
+  margin: 83rpx 0 0 214rpx;
+}
+.card uni-popup .loginCon .con button.data-v-3f54963c {
+  margin-top: 85rpx;
+  width: 100%;
+  background: #FDD10A;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #343434;
+}
+.card .shareBtn.data-v-3f54963c {
+  position: fixed;
+  z-index: 999;
+  bottom: 138rpx;
+  right: 42rpx;
+}
+.card .shareBtn button.data-v-3f54963c {
+  border: 0;
+  -webkit-border-radius: 0;
+          border-radius: 0;
+}
+.card .shareBtn image.data-v-3f54963c {
+  width: 126rpx;
+  height: 126rpx;
+}
+

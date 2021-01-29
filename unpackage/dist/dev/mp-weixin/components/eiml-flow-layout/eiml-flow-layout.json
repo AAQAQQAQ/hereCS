@@ -1,0 +1,6 @@
+{
+  "component": true,
+  "usingComponents": {
+    "child": "/components/eiml-flow-child/eiml-flow-child"
+  }
+}

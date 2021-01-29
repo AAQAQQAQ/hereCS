@@ -1,0 +1,83 @@
+.classifyList .list .items.data-v-2b5a3346 {
+  padding: 20rpx 34rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-bottom: 1rpx solid #E6E6E6;
+}
+.classifyList .list .items .masterImg.data-v-2b5a3346 {
+  width: 280rpx;
+  height: 176rpx;
+}
+.classifyList .list .items .des.data-v-2b5a3346 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.classifyList .list .items .des .tit.data-v-2b5a3346 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+}
+.classifyList .list .items .des .tit .name.data-v-2b5a3346 {
+  width: 286rpx;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+}
+.classifyList .list .items .des .tit .distance.data-v-2b5a3346 {
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #777777;
+  margin-top: 13rpx;
+}
+.classifyList .list .items .des .person.data-v-2b5a3346 {
+  padding-bottom: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.classifyList .list .items .des .person .introduce.data-v-2b5a3346 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  -webkit-box-flex: 1.6;
+  -webkit-flex: 1.6;
+          flex: 1.6;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #777777;
+}
+.classifyList .list .items .des .person .money.data-v-2b5a3346 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: right;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #777777;
+}
+

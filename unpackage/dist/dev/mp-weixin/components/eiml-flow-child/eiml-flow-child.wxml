@@ -1,0 +1,1 @@
+<view style="padding:10rpx 5rpx 0rpx 5rpx;"><view style="padding:10rpx;border-radius:10rpx;background:white;"><image style="width:100%;" src="{{item.img}}" mode="widthFix"></image><view class="itemName">{{''+item.name+''}}</view><view class="itemTitle">{{''+item.title+''}}</view><view class="itemPrice">{{''+item.price+''}}</view></view></view>

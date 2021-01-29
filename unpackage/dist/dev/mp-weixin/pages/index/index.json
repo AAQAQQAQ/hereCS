@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "Here",
+  "usingComponents": {
+    "m-search": "/components/mehaotian-search/mehaotian-search",
+    "eiml-flow": "/components/eiml-flow-layout/eiml-flow-layout"
+  }
+}

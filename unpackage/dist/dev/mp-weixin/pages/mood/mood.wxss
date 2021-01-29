@@ -1,0 +1,354 @@
+.state.data-v-c11a7134 {
+  width: 750rpx;
+}
+.state .toHere.data-v-c11a7134 {
+  position: absolute;
+  top: 0;
+  z-index: 999;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.4);
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding: 22rpx 31rpx 23rpx 36rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.state .toHere .icon.data-v-c11a7134 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+          justify-content: space-between;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.state .toHere .icon image.data-v-c11a7134 {
+  height: 84rpx;
+  width: 84rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  margin-right: 20rpx;
+}
+.state .toHere .icon .name.data-v-c11a7134 {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: rgba(255, 255, 255, 0.8);
+}
+.state .toHere .downLoad.data-v-c11a7134 {
+  width: 106rpx;
+  height: 51rpx;
+  line-height: 51rpx;
+  text-align: center;
+  border: 2rpx solid #FFFFFF;
+  -webkit-border-radius: 12rpx;
+          border-radius: 12rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #FFFFFF;
+}
+.state .toHere .keepEye.data-v-c11a7134 {
+  border: 2rpx solid #8A8A8A;
+  color: #8A8A8A;
+}
+.state .image.data-v-c11a7134 {
+  height: 750rpx;
+  width: 750rpx;
+}
+.state .image .swiper.data-v-c11a7134 {
+  width: 100%;
+  height: 100%;
+}
+.state .image .swiper image.data-v-c11a7134 {
+  height: 100%;
+  width: 100%;
+}
+.state .headPortrait.data-v-c11a7134 {
+  margin-top: 15rpx;
+  padding: 0 34rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.state .headPortrait .flex.data-v-c11a7134 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.state .headPortrait .flex image.data-v-c11a7134 {
+  width: 84rpx;
+  height: 84rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.state .headPortrait .flex view.data-v-c11a7134 {
+  font-weight: bold;
+  margin-left: 15rpx;
+}
+.state .headPortrait .focus.data-v-c11a7134 {
+  width: 106rpx;
+  height: 51rpx;
+  border: 1rpx solid #ff0101;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  color: #ff0101;
+  font-size: 24rpx;
+  text-align: center;
+  line-height: 51rpx;
+}
+.state .titS.data-v-c11a7134 {
+  margin-top: 28rpx;
+  padding: 0 34rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.state .describe.data-v-c11a7134 {
+  margin-top: 15rpx;
+  padding: 0 34rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  padding-bottom: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.state .time.data-v-c11a7134 {
+  padding: 0 34rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 20rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #BCBCBC;
+}
+.state .pinglun.data-v-c11a7134 {
+  margin-top: 60rpx;
+  padding: 0 34rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.state .pinglun .total.data-v-c11a7134 {
+  margin-bottom: 20rpx;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.state .pinglun .total text.data-v-c11a7134 {
+  font-size: 24rpx;
+  color: #bcbcbc;
+}
+.state .pinglun .listP .itemsP.data-v-c11a7134 {
+  margin-bottom: 25rpx;
+}
+.state .pinglun .listP .itemsP image.data-v-c11a7134 {
+  width: 84rpx;
+  height: 84rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.state .pinglun .listP .itemsP .right.data-v-c11a7134 {
+  margin-left: 21rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.state .pinglun .listP .itemsP .right .name .name1.data-v-c11a7134 {
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #9A9A9A;
+}
+.state .pinglun .listP .itemsP .right .name .zan.data-v-c11a7134 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #989898;
+}
+.state .pinglun .listP .itemsP .right .name .zan image.data-v-c11a7134 {
+  width: 30rpx;
+  height: 30rpx;
+  margin-right: 8rpx;
+}
+.state .pinglun .listP .itemsP .right .contP.data-v-c11a7134 {
+  margin-top: 10rpx;
+  width: 492rpx;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #343434;
+}
+.state .pinglun .listP .itemsP .right .time2.data-v-c11a7134 {
+  margin-top: 10rpx;
+  font-size: 18rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #9A9A9A;
+}
+.state uni-popup .loginCon.data-v-c11a7134 {
+  width: 750rpx;
+  background: #333333;
+  overflow: hidden;
+}
+.state uni-popup .loginCon view.data-v-c11a7134 {
+  line-height: 1;
+}
+.state uni-popup .loginCon .con.data-v-c11a7134 {
+  margin-top: 350rpx;
+  margin-left: 85rpx;
+  width: 580rpx;
+  background: #FFFFFF;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  overflow: hidden;
+}
+.state uni-popup .loginCon .con .top.data-v-c11a7134 {
+  text-align: center;
+  margin-top: 60rpx;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.state uni-popup .loginCon .con .middle.data-v-c11a7134 {
+  margin-top: 38rpx;
+  text-align: center;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #999999;
+}
+.state uni-popup .loginCon .con image.data-v-c11a7134 {
+  width: 155rpx;
+  height: 155rpx;
+  margin: 83rpx 0 0 214rpx;
+}
+.state uni-popup .loginCon .con button.data-v-c11a7134 {
+  margin-top: 85rpx;
+  width: 100%;
+  background: #FDD10A;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #343434;
+}
+.state uni-popup .content.data-v-c11a7134 {
+  background: #ffffff;
+  padding-top: 34rpx;
+  width: 480rpx;
+  -webkit-border-radius: 30rpx;
+          border-radius: 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.state uni-popup .content image.data-v-c11a7134 {
+  width: 120rpx;
+  height: 120rpx;
+  margin-left: 180rpx;
+}
+.state uni-popup .content .content_.data-v-c11a7134 {
+  margin: 45rpx 0 53rpx 110rpx;
+  text-align: center;
+  width: 285rpx;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #666666;
+}
+.state uni-popup .content .click.data-v-c11a7134 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  border-top: 1rpx solid #dedede;
+}
+.state uni-popup .content .click > view.data-v-c11a7134 {
+  font-size: 30rpx;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  text-align: center;
+  padding: 25rpx 0;
+}
+.state uni-popup .content .click .cancel.data-v-c11a7134 {
+  border-right: 1rpx solid #dedede;
+}
+.state uni-popup .content .click .comfirm.data-v-c11a7134 {
+  color: #5c92e1;
+}
+.state uni-popup .loginCon.data-v-c11a7134 {
+  width: 750rpx;
+  background: #333333;
+  overflow: hidden;
+}
+.state uni-popup .loginCon view.data-v-c11a7134 {
+  line-height: 1;
+}
+.state uni-popup .loginCon .con.data-v-c11a7134 {
+  margin-top: 350rpx;
+  margin-left: 85rpx;
+  width: 580rpx;
+  background: #FFFFFF;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  overflow: hidden;
+}
+.state uni-popup .loginCon .con .top.data-v-c11a7134 {
+  text-align: center;
+  margin-top: 60rpx;
+  font-size: 36rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.state uni-popup .loginCon .con .middle.data-v-c11a7134 {
+  margin-top: 38rpx;
+  text-align: center;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #999999;
+}
+.state uni-popup .loginCon .con image.data-v-c11a7134 {
+  width: 155rpx;
+  height: 155rpx;
+  margin: 83rpx 0 0 214rpx;
+}
+.state uni-popup .loginCon .con button.data-v-c11a7134 {
+  margin-top: 85rpx;
+  width: 100%;
+  background: #FDD10A;
+  height: 100rpx;
+  line-height: 100rpx;
+  text-align: center;
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #343434;
+}
+

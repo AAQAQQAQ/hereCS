@@ -1,0 +1,91 @@
+.phoneLogin .phoneNumber {
+  width: 602rpx;
+  margin: 72rpx 0 0 74rpx;
+  border-bottom: 3rpx solid #E4E4E4;
+  padding-bottom: 34rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.phoneLogin .phoneNumber .tit {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-left: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.phoneLogin .phoneNumber .tit image {
+  width: 24rpx;
+  height: 36rpx;
+}
+.phoneLogin .phoneNumber .tit view {
+  margin-left: 20rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #000000;
+}
+.phoneLogin .phoneNumber .tit .renzhneg {
+  width: 29rpx;
+  height: 35rpx;
+}
+.phoneLogin .phoneNumber .input {
+  margin-top: 41rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  padding-left: 10rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.phoneLogin .phoneNumber .input .prefix {
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #000000;
+}
+.phoneLogin .phoneNumber .input input {
+  margin-left: 39rpx;
+  width: 400rpx;
+}
+.phoneLogin .phoneNumber .input .getCode {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #FDD20C;
+}
+.phoneLogin .phoneNumber .input .minute {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #CCCCCC;
+}
+.phoneLogin .type {
+  padding: 21rpx 102rpx 0 75rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.phoneLogin .type view {
+  font-size: 28rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #666666;
+}
+.phoneLogin .next {
+  margin: 88rpx 0 0 218rpx;
+  width: 314rpx;
+  height: 96rpx;
+  line-height: 96rpx;
+  text-align: center;
+  -webkit-border-radius: 48rpx;
+          border-radius: 48rpx;
+  font-size: 32rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #FFFFFF;
+  background: #E6E6E6;
+}
+.phoneLogin .black {
+  background: #000000;
+}
+

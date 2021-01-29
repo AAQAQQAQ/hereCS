@@ -1,0 +1,15 @@
+<script>
+	export default {
+		onLaunch: function() {
+		},
+		onShow: function() {
+			console.log('App Show')
+		},
+		onHide: function() {
+		}
+	}
+</script>
+
+<style>
+	/*每个页面公共css */
+</style>

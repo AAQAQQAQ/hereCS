@@ -1,0 +1,222 @@
+.content.data-v-57280228 {
+  background: #F9F9F9;
+}
+.content .scrollBox.data-v-57280228 {
+  padding-top: 190rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.content .fixed.data-v-57280228 {
+  z-index: 9999;
+  width: 100%;
+  position: fixed;
+  top: 0;
+  background: #fff;
+  padding-bottom: 20rpx;
+}
+.content .fixed .search-box.data-v-57280228 {
+  background: #fff;
+}
+.content .fixed .search-box.data-v-57280228 .search .content .content-box .input {
+  color: #333;
+}
+.content .fixed .search-box.data-v-57280228 .button-item {
+  color: #333;
+}
+.content .fixed .flex.data-v-57280228 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  margin-top: 15rpx;
+}
+.content .fixed .flex > view.data-v-57280228 {
+  width: 50%;
+  text-align: center;
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #6E6E6E;
+  padding-bottom: 8rpx;
+}
+.content .fixed .flex .border.data-v-57280228 {
+  border-bottom: 6rpx solid #FDD10B;
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #000000;
+}
+.content .block_i.data-v-57280228 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.content .list.data-v-57280228 {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  overflow: hidden;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+          flex-direction: column;
+}
+.content .list .items.data-v-57280228 {
+  padding-bottom: 10rpx;
+  -webkit-border-radius: 12rpx 12rpx 0rpx 0rpx;
+          border-radius: 12rpx 12rpx 0rpx 0rpx;
+  width: 345rpx;
+  margin-bottom: 20rpx;
+  -webkit-box-shadow: 0rpx 0rpx 5rpx 0rpx rgba(0, 0, 0, 0.1);
+          box-shadow: 0rpx 0rpx 5rpx 0rpx rgba(0, 0, 0, 0.1);
+  border-top: 0.5rpx solid rgba(238, 238, 238, 0.1);
+  border-left: 0.5rpx solid rgba(238, 238, 238, 0.8);
+  border-right: 0.5rpx solid rgba(238, 238, 238, 0.8);
+  -webkit-border-radius: 14rpx;
+          border-radius: 14rpx;
+  position: relative;
+  overflow: hidden;
+}
+.content .list .items .masterImg.data-v-57280228 {
+  width: 345rpx;
+  -webkit-border-radius: 12rpx 12rpx 0rpx 0rpx;
+          border-radius: 12rpx 12rpx 0rpx 0rpx;
+}
+.content .list .items .tit.data-v-57280228 {
+  margin: 10rpx 0 0rpx 17rpx;
+  width: 305rpx;
+  font-size: 26rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+}
+.content .list .items .des.data-v-57280228 {
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #979797;
+  margin: 10rpx 0 0 17rpx;
+  width: 305rpx;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+}
+.content .list .items .person.data-v-57280228 {
+  padding: 10rpx 24rpx 0rpx 17rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .list .items .person .avator.data-v-57280228,
+.content .list .items .person .like.data-v-57280228 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.content .list .items .person .avator image.data-v-57280228,
+.content .list .items .person .like image.data-v-57280228 {
+  width: 40rpx;
+  height: 40rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+  background: #E6E6E6;
+}
+.content .list .items .person .avator view.data-v-57280228,
+.content .list .items .person .like view.data-v-57280228 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-box-orient: vertical;
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #979797;
+  margin-left: 12rpx;
+}
+.content .list .items .person .like image.data-v-57280228 {
+  width: 30rpx;
+  height: 30rpx;
+}
+.content .list .items .video.data-v-57280228 {
+  position: absolute;
+  top: 16rpx;
+  right: 16rpx;
+  width: 40rpx;
+  height: 40rpx;
+}
+.content .list .items .official.data-v-57280228 {
+  padding: 10rpx 15rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  background: #000000;
+  -webkit-border-radius: 10rpx;
+          border-radius: 10rpx;
+  font-size: 20rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #FFFFFF;
+  position: absolute;
+  right: 17rpx;
+}
+.content .userList .userItems.data-v-57280228 {
+  width: 728rpx;
+  margin-left: 22rpx;
+  padding: 32rpx 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  border-bottom: 1rpx solid #E6E6E6;
+}
+.content .userList .userItems image.data-v-57280228 {
+  width: 84rpx;
+  height: 84rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.content .userList .userItems .user.data-v-57280228 {
+  margin-left: 22rpx;
+}
+.content .userList .userItems .user .name.data-v-57280228 {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #000000;
+}
+.content .userList .userItems .user .fans.data-v-57280228 {
+  margin-top: 16rpx;
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 300;
+  color: #A1A1A1;
+}
+.content .zanwu.data-v-57280228 {
+  text-align: center;
+  width: 100%;
+  margin-top: 200rpx;
+}
+.content .zanwu image.data-v-57280228 {
+  width: 318rpx;
+  height: 291rpx;
+}
+.content .zanwu view.data-v-57280228 {
+  margin-top: 36rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #999999;
+}
+

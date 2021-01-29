@@ -1,0 +1,32 @@
+.classify.data-v-71432b06 {
+  width: 100%;
+  padding-top: 50rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+}
+.classify image.data-v-71432b06,
+.classify view.data-v-71432b06 {
+  line-height: 1;
+}
+.classify > view.data-v-71432b06 {
+  margin-bottom: 72rpx;
+  text-align: center;
+  width: 25%;
+}
+.classify > view image.data-v-71432b06 {
+  width: 60rpx;
+  height: 60rpx;
+}
+.classify > view view.data-v-71432b06 {
+  margin-top: 20rpx;
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 500;
+  color: #333333;
+}
+

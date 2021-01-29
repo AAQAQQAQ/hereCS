@@ -1,0 +1,13 @@
+
+.itemTitle{
+	font-size: 24rpx;
+}
+.itemName{
+	font-weight: bold;
+	font-size: 30rpx;
+}
+.itemPrice{
+	font-size: 30rpx;
+	color: red;
+}
+

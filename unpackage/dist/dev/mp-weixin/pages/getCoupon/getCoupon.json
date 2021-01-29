@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "分享得专属优惠",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

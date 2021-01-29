@@ -1,0 +1,105 @@
+.con_my.data-v-5b7049b4 {
+  width: 750rpx;
+}
+.con_my .nav.data-v-5b7049b4 {
+  background: pink;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.con_my .nav .con.data-v-5b7049b4 {
+  width: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.con_my .nav .backBtn.data-v-5b7049b4 {
+  margin-left: 35rpx;
+  font-size: 36rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+  height: 100%;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+          justify-content: center;
+  max-width: 100%;
+}
+.con_my .nav .backBtn image.data-v-5b7049b4 {
+  width: 24rpx;
+  height: 38rpx;
+}
+.con_my .nav2.data-v-5b7049b4 {
+  background: rgba(0, 0, 0, 0);
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.con_my .nav2 .con.data-v-5b7049b4 {
+  position: fixed;
+  width: 100%;
+  top: 0;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+}
+.con_my .nav2 .con .title.data-v-5b7049b4 {
+  width: 100%;
+  text-align: center;
+}
+.con_my .nav2 .con .title .username.data-v-5b7049b4 {
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.con_my .nav2 .con .title .id.data-v-5b7049b4 {
+  font-size: 20rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #999999;
+}
+.con_my .infos.data-v-5b7049b4 {
+  padding: 47rpx 42rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.con_my .infos image.data-v-5b7049b4 {
+  width: 170rpx;
+  height: 170rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.con_my .infos .cows.data-v-5b7049b4 {
+  padding: 0 40rpx 0 83rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  text-align: center;
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+}
+.con_my .infos .cows .cow view.data-v-5b7049b4:nth-child(1) {
+  font-size: 34rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.con_my .infos .cows .cow view.data-v-5b7049b4:nth-child(2) {
+  margin-top: 14rpx;
+  font-size: 22rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #999999;
+}
+.con_my .greyBG.data-v-5b7049b4 {
+  background: #F2F2F2;
+  width: 100%;
+  height: 31rpx;
+}
+

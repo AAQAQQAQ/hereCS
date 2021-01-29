@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "Here",
+  "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup"
+  }
+}

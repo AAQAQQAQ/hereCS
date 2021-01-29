@@ -1,0 +1,18 @@
+
+.viewSpaceBetween{
+	display: -webkit-flex;
+	display: -webkit-box;
+	display: flex;
+	-webkit-justify-content: space-between;
+	-webkit-box-pack: justify;
+	        justify-content: space-between;
+	-webkit-box-align: start;
+	-webkit-align-items: flex-start;
+	        align-items: flex-start;
+}
+.column{
+	-webkit-box-flex: 1;
+	-webkit-flex-grow: 1;
+	        flex-grow: 1;
+}
+

@@ -16,7 +16,10 @@
     "pages/webview/webview",
     "pages/officialActivity/officialActivity",
     "pages/getCoupon/getCoupon",
-    "pages/myDetails/myDetails"
+    "pages/myDetails/myDetails",
+    "pages/myAttention/myAttention",
+    "pages/myFans/myFans",
+    "pages/myLike/myLike"
   ],
   "subPackages": [],
   "window": {

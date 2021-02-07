@@ -186,17 +186,35 @@
 			</view>
 		</view>
 		</scroll-view>
+		<uni-popup ref="popup" type="center" :custom="true" :maskClick="false">
+		
+			<view class="redCon">
+				<view class="bg">
+					<image src="../../static/redBg.png" mode="" class="big"></image>
+					<image src="../../static/redGet.png" mode="" class="position" @tap="getRed"></image>
+				</view>
+				<view class="close" @tap="closeRed">
+					<image src="../../static/redClose.png" mode=""></image>
+				</view>
+			</view>
+		</uni-popup>
 	</view>
 </template>
 
 <script>
 	import eimlFlow from "@/components/eiml-flow-layout/eiml-flow-layout.vue"
 	import mSearch from '@/components/mehaotian-search/mehaotian-search.vue';
+	import uniPopup from '@/components/uni-popup/uni-popup.vue'
 	export default {
 		onLoad() {
+			// this.getRed()
 			if(uni.getStorageSync('login')) return 
+			// this.isSearch = false
 			this.token = uni.getStorageSync('userInfo').token
 			this.userId = uni.getStorageSync('userInfo').userId
+			if(this.token){
+				this.openRed()
+			}
 			this.beg = false
 			this.isloadMore = false;
 			this.pageNumber = 0;
@@ -214,7 +232,8 @@
 		},
 		components: {
 			mSearch,
-			eimlFlow
+			eimlFlow,
+			uniPopup
 		},
 		onReady() {
 			uni.getSystemInfo({
@@ -228,6 +247,7 @@
 			this.token = uni.getStorageSync('userInfo').token
 			this.userId = uni.getStorageSync('userInfo').userId
 			   if(!uni.getStorageSync('login')) return
+			   this.openRed()
 			   this.isSearch = false
 			   this.tabId1 = 0
 			    this.tabId == 0
@@ -309,6 +329,26 @@
 		},
 
 		methods: {
+			openRed(){
+				this.$refs.popup.open();
+			},
+			closeRed(){
+				this.$refs.popup.close();
+			},
+			getRed(){
+				wx.showRedPackage({
+					url: 'https://support.weixin.qq.com/cgi-bin/mmsupport-bin/showredpacket?receiveuri=kAoBm531qvH&check_type=2#wechat_redirect',
+					
+					success:()=>{
+						this.$refs.popup.close();
+						// this.toast('成功')
+					},
+					fail:()=>{
+						this.$refs.popup.close();
+						// this.toast('失败')
+					}
+				})
+			},
 			tolower() {
 				if (this.tabId == 0&&!this.isSearch) {
 					// 附近推荐
@@ -913,6 +953,34 @@
 				font-family: PingFang SC;
 				font-weight: 600;
 				color: #999999;
+			}
+		}
+		.redCon{
+			.bg{
+				position: relative;
+				width: 580rpx;
+				height: 858rpx;
+				.big{
+					width: 100%;
+					height: 100%;
+				}
+				.position{
+					width: 183rpx;
+					height: 62rpx;
+					position: absolute;
+					top: 762rpx;
+					left: 198rpx;
+				}
+			}
+			.close{
+				width: 68rpx;
+				height: 68rpx;
+				margin-top: 56rpx;
+				margin-left: 256rpx;
+				image{
+					width: 100%;
+					height: 100%;
+				}
 			}
 		}
 	}

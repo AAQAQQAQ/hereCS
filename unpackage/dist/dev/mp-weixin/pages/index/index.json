@@ -1,6 +1,7 @@
 {
   "navigationBarTitleText": "Here",
   "usingComponents": {
+    "uni-popup": "/components/uni-popup/uni-popup",
     "m-search": "/components/mehaotian-search/mehaotian-search",
     "eiml-flow": "/components/eiml-flow-layout/eiml-flow-layout"
   }

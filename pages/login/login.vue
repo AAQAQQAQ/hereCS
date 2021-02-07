@@ -146,6 +146,8 @@
 							
 						}
 						uni.setStorageSync('userInfo', userInfo)
+						uni.setStorageSync('login','login-ok')
+
 						if(uni.getStorageSync('data').type == 'D'||uni.getStorageSync('data').type == 'C'){
 							let type = uni.getStorageSync('data').type
 							let id = uni.getStorageSync('data').id

@@ -1,0 +1,51 @@
+.con.data-v-5f70fba8 {
+  width: 750rpx;
+  padding-top: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.con .list.data-v-5f70fba8 {
+  padding: 0 30rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+.con .list .items.data-v-5f70fba8 {
+  margin-bottom: 41rpx;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.con .list .items .left.data-v-5f70fba8 {
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.con .list .items .left .avator.data-v-5f70fba8 {
+  width: 100rpx;
+  height: 100rpx;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.con .list .items .left .avator image.data-v-5f70fba8 {
+  width: 100%;
+  height: 100%;
+  -webkit-border-radius: 50%;
+          border-radius: 50%;
+}
+.con .list .items .left .name.data-v-5f70fba8 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+          flex: 1;
+  margin-left: 19rpx;
+  font-size: 30rpx;
+  font-family: PingFang SC;
+  font-weight: 600;
+  color: #000000;
+}
+.con .list .items .right.data-v-5f70fba8 {
+  font-size: 24rpx;
+  font-family: PingFang SC;
+  font-weight: 400;
+  color: #999999;
+}
+

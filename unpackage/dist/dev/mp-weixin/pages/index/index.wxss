@@ -219,4 +219,30 @@
   font-weight: 600;
   color: #999999;
 }
+.content .redCon .bg.data-v-57280228 {
+  position: relative;
+  width: 580rpx;
+  height: 858rpx;
+}
+.content .redCon .bg .big.data-v-57280228 {
+  width: 100%;
+  height: 100%;
+}
+.content .redCon .bg .position.data-v-57280228 {
+  width: 183rpx;
+  height: 62rpx;
+  position: absolute;
+  top: 762rpx;
+  left: 198rpx;
+}
+.content .redCon .close.data-v-57280228 {
+  width: 68rpx;
+  height: 68rpx;
+  margin-top: 56rpx;
+  margin-left: 256rpx;
+}
+.content .redCon .close image.data-v-57280228 {
+  width: 100%;
+  height: 100%;
+}
 
